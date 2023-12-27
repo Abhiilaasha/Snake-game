@@ -32,4 +32,4 @@
 
 
 <h2> License </h2> 
-<p> This project is licensed under the [License Name] License - see the LICENSE file for details.</p>
+<p> This project is licensed under the <code>LICENSE</code>.</p>
